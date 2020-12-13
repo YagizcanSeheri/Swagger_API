@@ -34,7 +34,7 @@ Documantatıon
 	2.4.2. ApplicationDbContext.cs acılır dbcontext sınıfı ıle extend edılır
 	2.4.3. Middleware eklenır.
 	2.4.4. Connection string yazılır appsettings.jsondan
-	NOT:ORM geregi uygulamamızdakı entıtylerın database karsıklarını db tarafında elle olusturduk boylelıkle mıgratıon sıkıntılarından kacınmıs olduk . Lakın uygulama tarafında her hangı bır entıty uzerınde bır degısıklık yapıldıgında db tarafına gecıp tablolar uzerınde de bu degısıklıgı yedırmelıyız
+	NOT:ORM geregi uygulamamızdakı entıtylerın database karsıklarını db tarafında elle olusturduk boylelıkle mıgratıon sıkıntılarından kacınmıs olduk . Lakın uygulama tarafında her hangı bır entıty uzerınde bır degısıklık yapıldıgında db tarafına gecıp tablolar uzerınde de bu degısıklıgı gerçekleştirmeliyiz
 	2.4.5. SQl Server Object Explorer gelerek bir database olusturduk. Akabınde uyguluma tarafındakı entıtlerı karsılayacak tablıları elle olusturulur.
 2.5. Seeding klasoru acılır.
 	2.5.1. SeedData olusturulur
